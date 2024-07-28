@@ -38,7 +38,6 @@ About Me:
       
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=42849252)
 
 ## 📫 How to reach me :
 You can reach me at the email in my GitHub profile. Follow my socials!
