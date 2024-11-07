@@ -16,8 +16,8 @@ About Me:
 ## 🛠 Tech Stack
 
 <p align="center">
-       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
@@ -28,14 +28,16 @@ About Me:
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="nextjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="amazon_eks" width="55" height="55"/>
       <img src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="nextjs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/5a7cb2173c87167e9aa88ac4b0f5301e6eef975c/icons/file_type_light_nx.svg" alt="nx" width="55" height="55"/>
-      
-      
 </p>
 
 
